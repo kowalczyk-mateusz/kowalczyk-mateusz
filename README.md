@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mateusz from Poland and I'm Junior front-end developer. I enjoy learning new languages or frameworks like React ;). I'm also a fan of crime series and movies.\
+I'm Mateusz from Poland and I'm Junior front-end developer. I enjoy learning new languages and frameworks like React ;). I'm also a fan of crime series and movies.\
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kowalczyk-mateusz&theme=highcontrast&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalczyk-mateusz&theme=highcontrast)
 
