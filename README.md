@@ -14,20 +14,5 @@ I'm Mateusz from Poland and I'm Junior front-end developer. I enjoy learning new
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> </a>
-
-<a href=https://sass-lang.com/ target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a>
-
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactr" width="40" height="40"/> </a>
-
-<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" width="40" height="40"/> </a>
-
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
-
-<a href="https://www.framer.com/motion/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/42876?s=200&v=4" alt="framermotion" width="40" height="40"/> </a>
-
-<a href="https://styled-components.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styledcomponents" width="40" height="40"/> </a>
-
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> </a><a href=https://sass-lang.com/ target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactr" width="40" height="40"/> </a><a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a><a href="https://www.framer.com/motion/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/42876?s=200&v=4" alt="framermotion" width="40" height="40"/> </a><a href="https://styled-components.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styledcomponents" width="40" height="40"/> </a>
 </p>
