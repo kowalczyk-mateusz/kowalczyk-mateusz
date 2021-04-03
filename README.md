@@ -9,7 +9,7 @@ I'm Mateusz from Poland and I'm Junior front-end developer. I enjoy learning new
 <a href="https://www.linkedin.com/in/mateusz-kowalczyk-345311203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mateusz-kowalczyk-345311203/" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="mailto:kowalczyk_mateusz@poczta.fm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mateusz-kowalczyk-345311203/" height="30" width="40" /></a>
+<a href="mailto:kowalczyk_mateusz@poczta.fm" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/561/561127.svg?token=exp=1617460866~hmac=66c1a8239366e27541a4a72f54d4ac23" alt="https://www.linkedin.com/in/mateusz-kowalczyk-345311203/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
